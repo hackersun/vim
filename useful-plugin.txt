@@ -1,0 +1,14 @@
+==1.pathogen
+管理插件的插件
+https://github.com/tpope/vim-pathogen
+
+##auto-pairs
+自动匹配括号、引号等
+https://github.com/jiangmiao/auto-pairs
+
+##NERDTree
+显示目录树
+https://github.com/scrooloose/nerdtree
+
+
+
